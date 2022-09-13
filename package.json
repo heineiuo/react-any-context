@@ -1,0 +1,29 @@
+{
+  "name": "react-any-context",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heineiuo/react-any-context.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/heineiuo/react-any-context/issues"
+  },
+  "homepage": "https://github.com/heineiuo/react-any-context#readme",
+  "dependencies": {
+    "@types/react": ">=16.8.0"
+  }
+}
